@@ -1,0 +1,1 @@
+umm i need to go to bed and reinstall my OS in the morning (this is what i get for having NVIDIA), but we use GPL v3 in this house... this is a really dumb program i'm making for a friend and i'm sorry about the weirdly named variables, i went bonkers. will probably fix later.
